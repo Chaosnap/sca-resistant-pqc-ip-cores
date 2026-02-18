@@ -1,0 +1,9 @@
+[libraries]
+
+defaultlib.files = [
+    './*.vhd',
+    'util_comps/*.vhd',
+	'sasebo/*.vhd',
+	'masking/*.vhd',
+	'sca_wrappers/*.vhd',
+]
